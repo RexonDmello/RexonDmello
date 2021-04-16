@@ -1,5 +1,5 @@
 # Rexon Dmello
-I'm Rexon from Bangalore, and Iam a front end Developer. I really enjoy learning javascript and React, as well as work in WordPress.
+I'm Rexon from Mangalore, and Iam a front end Developer. I really enjoy learning javascript and React, as well as work in WordPress.
 
 ## Skills and Experience
 * ⚛ React
